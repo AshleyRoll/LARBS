@@ -71,3 +71,4 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 ,docker,"container manager"
 ,keepass,"is a secure password store"
 ,openssl,"is for SSH support"
+,cmake,"to help build C++ programs"
