@@ -72,3 +72,6 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 ,keepass,"is a secure password store"
 ,openssl,"is for SSH support"
 ,cmake,"to help build C++ programs"
+A,xurls,"allows selecting urls from terminal"
+A,kubectl-bin,"to control kubernetes clusters"
+A,plantuml,"to draw uml and other diagrams from text descriptions"
