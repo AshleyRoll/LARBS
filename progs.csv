@@ -75,3 +75,4 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 A,xurls,"allows selecting urls from terminal"
 A,kubectl-bin,"to control kubernetes clusters"
 A,plantuml,"to draw uml and other diagrams from text descriptions"
+,powerline-fonts,"to have nice looking fonts for development"
